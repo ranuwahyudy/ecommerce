@@ -1,0 +1,48 @@
+.footer-brand {
+  margin-right: 30px;
+}
+
+footer {
+  background-color: #ffcc00;
+  padding: 50px 0;
+  color: #000000;
+}
+
+footer h1 {
+  margin-bottom: 12px;
+  color: #000000;
+  font-weight: 800;
+}
+
+footer .img {
+  background-color: #0c2a4d;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+}
+
+footer .img span {
+  margin-top: 5px;
+}
+
+footer p {
+  font-size: 14px;
+  font-weight: 600;
+  opacity: 0.8;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+footer h2 {
+  margin-bottom: 20px;
+}
+
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.8;
+  font-weight: 600;
+}
